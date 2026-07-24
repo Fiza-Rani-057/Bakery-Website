@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+ .navbar-brand{
+  color: #ba7f3b !important;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 30px !important;
+  margin-right: 55% !important;
+  margin-left: 1%;
+ }
+ .navbar-nav{
+    font-family: Arial, Helvetica, sans-serif !important;
+    display: flex;
+    gap: 30px !important;
+    justify-content: flex-end !important;
+ }
+ .nav-link{
+    color: white !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .nav-link:hover{
+    color: #ef9732 !important;
+ }
