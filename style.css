@@ -36,13 +36,14 @@
 }
 
 .hero-section {
-   min-height:  auto!important;
+   min-height:  500px !important;
    width: 100%;
-   background-image: url(Images/Gemini_Generated_Image_t6s1h7t6s1h7t6s1.png);
+   background-image: url(Images/imag2.png);
    background-size: cover !important;
    background-repeat: no-repeat !important;
    padding-left: 70px;
-   padding-bottom: 30px;
+   padding-bottom: 50px !important;
+   padding-top: 30px;
 }
 
 .sub-heading {
