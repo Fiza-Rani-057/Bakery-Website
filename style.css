@@ -223,11 +223,12 @@ span {
    padding: 30px;
 }
 
-.heading{
+.heading {
    display: flex;
    justify-content: center;
    margin-bottom: 30px;
 }
+
 #firstname {
    color: #482f0f;
    margin-left: 350px;
@@ -318,7 +319,7 @@ textarea {
    margin-left: 400px;
    margin-top: 10px;
    display: flex;
-  justify-self: center;
+   justify-self: center;
 }
 
 #submit {
@@ -335,7 +336,7 @@ textarea {
    font-size: 15px;
    font-weight: bold;
    display: flex;
-  justify-self: center;
+   justify-self: center;
 }
 
 #submit:hover {
